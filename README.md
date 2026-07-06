@@ -37,38 +37,24 @@ The dataset presented several data quality issues that needed to be resolved bef
 
 &nbsp;
 
-## Key Visuals
+## Outcomes
 
 ![](images/Closures_by_year.png)
 *Branch closures rose from around 320 in 2015 to a peak of over 1,000 in 2022.*
 
+&nbsp;
+
 ![](images/Closure_rate_bands.png)
 *Most UK towns fall into the higher closure bands, with the largest group having lost between 75% and 100% of their branches.*
+
+&nbsp;
 
 ![](images/Regional_closure_rate.png)
 *London and Scotland show the highest regional closure rates in the UK, both close to 62%.*
 
 &nbsp;
 
-## Outcomes
-
-| Metric | Value | Description |
-|--------|-------|-------------|
-| Branches Analysed | 12,019 | Total branch records remaining after removing missing and invalid entries |
-| Branches Closed | 6,631 | Confirmed closed branches, including those previously marked as Closing |
-| Closure Trend | Rising | Closures rose from around 320 in 2015 to over 1,000 by 2022|
-| Town Most Affected | London | 833 branches closed, far more than any other UK town in absolute terms |
-| Regions Most Affected | London and Scotland | Highest regional closure rates in the UK, both around 62% |
-
-&nbsp;
-
-| Town | Region | Closed Branches | Total Branches | Closure Rate |
-|------|--------|-----------------|-----------------|---------------|
-| London | London | 833 | 1,326 | 63% |
-| Birmingham | West Midlands | 93 | 164 | 57% |
-| Manchester | North West | 86 | 122 | 70% |
-| Glasgow | Scotland | 80 | 127 | 63% |
-| Edinburgh | Scotland | 66 | 92 | 72% |
+![](images/Top 20 towns/png)
 
 &nbsp;
 
