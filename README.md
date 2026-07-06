@@ -39,22 +39,22 @@ The dataset presented several data quality issues that needed to be resolved bef
 
 ## Outcomes
 
-![](images/Closures_by_year.png)
+![ ](images/Closure rate band.png)
 *Branch closures rose from around 320 in 2015 to a peak of over 1,000 in 2022.*
 
 &nbsp;
 
-![](images/Closure_rate_bands.png)
+![ ](images/Closure_rate_bands.png)
 *Most UK towns fall into the higher closure bands, with the largest group having lost between 75% and 100% of their branches.*
 
 &nbsp;
 
-![](images/Regional_closure_rate.png)
+![ ](images/Regional_closure_rate.png)
 *London and Scotland show the highest regional closure rates in the UK, both close to 62%.*
 
 &nbsp;
 
-![](images/Top 20 towns/png)
+![ ](images/Top 20 towns/png)
 
 &nbsp;
 
